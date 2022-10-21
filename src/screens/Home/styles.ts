@@ -30,5 +30,16 @@ export const styles = StyleSheet.create({
     backgroundColor: theme.colors.blue_dark,
     alignItems: 'center',
     justifyContent: 'center'
+  },
+  status: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    paddingHorizontal: 24,
+    marginTop: 25
+  },
+  taskContainer: {
+    flex: 1,
+    paddingHorizontal: 24,
+    marginTop: 20, 
   }
 });
