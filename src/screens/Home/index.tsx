@@ -56,21 +56,6 @@ export function Home() {
 
       <ScrollView style={styles.taskContainer}>
         <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
-        <TaskCard/>
       </ScrollView>
 
     </SafeAreaView>
